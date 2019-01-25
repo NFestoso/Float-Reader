@@ -1,13 +1,6 @@
 /***************************************************************
-Student name: Nathan Festoso
-Student number : 040825359
-Assignment number : 2
-Course name / number : Numerical CST8233
-Lab section : 301
-Professor : Andrew Tyler
-Due date : December 10, 2017
-Submission date : December 10, 2017
-List of source and header files : ass1.cpp
+Name: Nathan Festoso
+Date : December 10, 2017
 ***************************************************************/
 
 #include <stdio.h>
@@ -15,11 +8,11 @@ List of source and header files : ass1.cpp
 
 /***************************************************************
 Function name:		Main
-Purpose:			Run simulator
+Purpose:		Run simulator
 In parameters:		-
 Out parameters:		int
-Version:			1.0
-Author:				Nathan Festoso
+Version:		1.0
+Author:			Nathan Festoso
 ***************************************************************/
 int main() {
 	float num;
